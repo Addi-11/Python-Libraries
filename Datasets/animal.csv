@@ -1,0 +1,7 @@
+,animal,age,visits,priority
+A,cat,4.5,2.0,y
+B,snake,6.0,1.0,n
+C,dog,,4.0,y
+D,deer,7.0,5.0,y
+E,wolf,,1.0,n
+f,,1.5,,
